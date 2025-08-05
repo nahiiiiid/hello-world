@@ -12,3 +12,5 @@ print(a / b)
 
 # multiplication
 print(a * b)
+
+print('Bye')
