@@ -9,3 +9,6 @@ print(a - b)
 
 # division
 print(a / b)
+
+# multiplication
+print(a * b)
